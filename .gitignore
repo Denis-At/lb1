@@ -1,0 +1,47 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Backup & temp files
+*.bak
+*.tmp
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# Publish outputs
+publish/
+wwwroot/
+
+# Configuration files
+appsettings.Development.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
