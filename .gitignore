@@ -1,47 +1,57 @@
-# Build results
+##############################################
+# SmartHomeSystem Project (.NET / C#)
+##############################################
+
+# IDE-specific folders
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and object folders
 bin/
 obj/
 [Bb]uild/
 [Ll]og/
 
-# User-specific files
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-
-# Visual Studio Code
-.vscode/
-.history/
-
-# Visual Studio
-.vs/
-
-# JetBrains Rider
-.idea/
-
 # NuGet packages
 *.nupkg
 *.snupkg
 packages/
-*.nuspec
+*.nuget.props
+*.nuget.targets
 
-# Backup & temp files
-*.bak
-*.tmp
+# Temporary and backup files
 *.log
+*.tmp
+*.temp
+*.bak
 
-# Test results
-TestResults/
-*.trx
+# Auto-generated files
+*.g.*
+*.generated.*
+*.designer.cs
+*.AssemblyAttributes.cs
 
-# Publish outputs
-publish/
-wwwroot/
-
-# Configuration files
+# Environment & config
 appsettings.Development.json
+*.env
 
-# OS-specific
-.DS_Store
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# System files
 Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Publish outputs (if you publish manually)
+publish/
+[Pp]ublish/
+PublishProfiles/
+*.pubxml
+*.publishproj
