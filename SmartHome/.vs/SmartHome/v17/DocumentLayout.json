@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\SmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\motionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\motionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\ienergyconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087C09B-D17F-4555-B788-E1F8FC368B8A}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\ienergyconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\CoffeeMachine.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\CoffeeMachine.cs",
+              "RelativeToolTip": "SmartHomeSystem\\CoffeeMachine.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:17:23.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\AirConditioner.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\AirConditioner.cs",
+              "RelativeToolTip": "SmartHomeSystem\\AirConditioner.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:15:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\Light.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Light.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\Light.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Light.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:12:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\Device.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Device.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\Device.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:08:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\Program.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:06:26.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\SmartHomeController.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\SmartHomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\SmartHomeController.cs",
+              "RelativeToolTip": "SmartHomeSystem\\SmartHomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:20:25.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotionSensor.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\MotionSensor.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\MotionSensor.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\MotionSensor.cs",
+              "RelativeToolTip": "SmartHomeSystem\\MotionSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:19:47.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEnergyConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\IEnergyConsumer.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\IEnergyConsumer.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\IEnergyConsumer.cs",
+              "RelativeToolTip": "SmartHomeSystem\\IEnergyConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:07:51.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISwitchable.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\ISwitchable.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\ISwitchable.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\SmartHome\\SmartHomeSystem\\ISwitchable.cs",
+              "RelativeToolTip": "SmartHomeSystem\\ISwitchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:07:06.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
