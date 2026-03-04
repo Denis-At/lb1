@@ -6,8 +6,6 @@ namespace PracticalWork1
     {
         static void Main(string[] args)
         {
-            // Ви можете викликати кожен метод Run() окремо
-            // Просто розкоментуйте потрібний рядок або залиште меню:
 
             Console.WriteLine("Оберіть завдання для перевірки (1-6):");
             string choice = Console.ReadLine();
@@ -17,7 +15,7 @@ namespace PracticalWork1
                 case "1": MathCalculator.Run(); break;
                 case "2": Notifications.Run(); break;
                 case "3": ListFiltering.Run(); break;
-                case "4": ListFiltering.Run(); break; // Завдання 4 включено в калькулятор та фільтрацію
+                case "4": ListFiltering.Run(); break; 
                 case "5": LoggerSystem.Run(); break;
                 case "6": TextValidator.Run(); break;
                 default: Console.WriteLine("Вихід..."); break;
