@@ -6,7 +6,6 @@ namespace PracticalWork1
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Оберіть завдання для перевірки (1-6):");
             string choice = Console.ReadLine();
 
